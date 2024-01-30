@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect } from "@playwright/tests";
 import { HomePage } from "../page-objects/HomePage";
 
 // test odsouhlasení cookies
